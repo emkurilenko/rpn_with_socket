@@ -1,5 +1,6 @@
 # rpn_with_socket
 Laboratory work. Using Sockets. The task "Calculating a mathematical expression with brackets".  Protocol of interaction TCP. Use pthread/Ubuntu
+
 makeFile.sh server
 
 	#!/bin/bash
